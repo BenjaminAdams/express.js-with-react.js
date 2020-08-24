@@ -1,0 +1,24 @@
+{
+  "name": "node.js-with-react",
+  "version": "1.0.0",
+  "description": "Node.js and React.js running on the same server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd exmaple-app & npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenjaminAdams/node.js-with-react.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenjaminAdams/node.js-with-react.js/issues"
+  },
+  "homepage": "https://github.com/BenjaminAdams/node.js-with-react.js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "proxy": "http://localhost:5008/"
+}
